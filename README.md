@@ -25,7 +25,9 @@ Then ordered the number of retiring by department number.  This is helpful as a 
 
 ![Retiring Employees by department](https://user-images.githubusercontent.com/102183530/169713949-cf6b82f4-07d7-4654-b983-47afcc23fe29.png)
 
+![Senior:Leader titles](https://user-images.githubusercontent.com/102183530/169715798-3a87ac90-0cbe-42cc-82d5-b7da9d19a362.png)
 
+The next deliverable is to see about what starting a Mentorship program using the code above to see what the number of employees look like.
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
@@ -42,5 +44,6 @@ Then ordered the number of retiring by department number.  This is helpful as a 
   - 1 Manager
      
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- 
+![Senior Leader titles](https://user-images.githubusercontent.com/102183530/169715888-7ea92f50-6837-4354-8090-6c9bf07b3594.png)
 
-![Senior:Leader titles](https://user-images.githubusercontent.com/102183530/169715714-327eca59-e4e8-4857-b2ce-83f81089bb8a.png)
