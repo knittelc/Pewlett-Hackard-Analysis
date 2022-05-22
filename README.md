@@ -4,7 +4,7 @@ PostgreSQL pgAdmin QuickDBD Schemas
 ## Overview of the analysis: 
   Determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Deliver a written report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
   Using an ERD created in this module, and six csvs filled with data not quite combined in a usable form.  Using pgAdmin4 and PostgreSQL, I tablulate the data in the requested forms to get the information the company needs to determine amount of people up for retirement, which departments they are in, and how to get a Mentorship Program started to increase the amount of employees ready for senior roles.
   
 ![EmployeeDB](https://user-images.githubusercontent.com/102183530/169713935-fafd77f3-b2c0-4dc8-95aa-e6f9f049405e.png)
@@ -49,3 +49,6 @@ The next deliverable is to see about what starting a Mentorship program using th
 
 The assumptions here a a bit off, not everyone based on age will be in Senior roles, it might be a good litmus test but more information is actually needed.  People might also not want to retire until they are 70 vs 65 or even 55 years of age.  Obviously, this is something that could be surveyed to the actual employees a bit more accurately.
 
+![Screen Shot 2022-05-22 at 5 18 51 PM](https://user-images.githubusercontent.com/102183530/169716332-72c1ac0b-415f-4171-9d91-a41939327758.png)
+
+And finally the number of positions to fill by title, as a second look to try and match up Mentorships.
