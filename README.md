@@ -44,7 +44,7 @@ The next deliverable is to see about what starting a Mentorship program using th
   - 1 Manager
      
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-- The basis for determining if there are enough "qualified" other employees to mentor the next generation:  The short answer is "No".  Coming in at a fraction of the employees (1590 approx).  I pulled another table of titles with "Leader" or "Senior" in them to emphasize this tabulation of needing to be replaced.
+- The basis for determining if there are enough "qualified" other employees to mentor the next generation:  The short answer is "No".  Coming in at a fraction of the employees (1549).  I pulled another table of titles with "Leader" or "Senior" in them to emphasize this tabulation of needing to be replaced.
 ![Senior Leader titles](https://user-images.githubusercontent.com/102183530/169715888-7ea92f50-6837-4354-8090-6c9bf07b3594.png)
 
 The assumptions here a a bit off, not everyone based on age will be in Senior roles, it might be a good litmus test but more information is actually needed.  People might also not want to retire until they are 70 vs 65 or even 55 years of age.  Obviously, this is something that could be surveyed to the actual employees a bit more accurately.
